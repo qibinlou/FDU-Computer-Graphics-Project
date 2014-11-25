@@ -5,3 +5,7 @@ body {
 .demo canvas {
     border: 1px solid black;
 }
+
+#mycanvas3:hover {
+    cursor: pointer;
+}
